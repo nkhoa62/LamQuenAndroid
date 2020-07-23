@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="click">Click</string>
+    <string name="nhap_pleas">Nhập pleas</string>
+    <string name="editfo">main</string>
+    <string name="btnOK">Click</string>
+    <string name="txt">Hello World</string>
+</resources>
